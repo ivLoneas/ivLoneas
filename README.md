@@ -4,8 +4,10 @@ United Kingdom
 📞 +44 7518 647782 • 📧 ivan.smirnov.wrk@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
+
 ## 📢 News
 Please check out my benchmark of open source Part-of-Speech taggers [here] (https://github.com/ivLoneas/pos-taggers-benchmark)
+
 ---
 
 ## About

@@ -6,7 +6,7 @@ United Kingdom
 ---
 
 ## 📢 News
-Please check out my benchmark of open source Part-of-Speech taggers [here] (https://github.com/ivLoneas/pos-taggers-benchmark)
+Please check out my benchmark of open source Part-of-Speech taggers [here](https://github.com/ivLoneas/pos-taggers-benchmark)
 
 ---
 

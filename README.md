@@ -4,6 +4,9 @@ United Kingdom
 📞 +44 7518 647782 • 📧 ivan.smirnov.wrk@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
+## 📢 News
+Please check out my benchmark of open source Part-of-Speech taggers [here] (https://github.com/ivLoneas/pos-taggers-benchmark)
+---
 
 ## About
 Machine Learning Engineer with 5+ years of commercial experience across cybersecurity, NLP, and medical engineering. End-to-end ownership from requirements and data collection to model development, deployment, and monitoring. Hands-on with LLMs for Retrieval-Augmented Generation (RAG) and multi-agent pipelines. Comfortable in teams from 2 to 30 people. Strong DS/ML foundations backed by a STEM degree.

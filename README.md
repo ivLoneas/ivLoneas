@@ -1,74 +1,81 @@
 # Ivan Smirnov
 **Machine Learning Engineer (5+ years)** 
-United Kingdom  
+London, United Kingdom  
 📞 +44 7518 647782 • 📧 ivan.smirnov.wrk@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
 
 ## 📢 News
-Please check out my benchmark of open source Part-of-Speech taggers [here](https://github.com/ivLoneas/pos-taggers-benchmark)
+I released [scholarmesh.org](https://scholarmesh.org/) -- a scientific reviewer and referee discovery system !
 
 ---
 
-## About
-Machine Learning Engineer with 5+ years of commercial experience across cybersecurity, NLP, and medical engineering. End-to-end ownership from requirements and data collection to model development, deployment, and monitoring. Hands-on with LLMs for Retrieval-Augmented Generation (RAG) and multi-agent pipelines. Comfortable in teams from 2 to 30 people. Strong DS/ML foundations backed by a STEM degree.
+# About
 
-Beyond ML, I’ve built web systems end to end: 3D client-side graphics with Three.js (rendering/perf), and backend services in Kotlin to deliver new functionality and streamline workflows.
+Senior AI/ML Engineer with **5+ years of experience** specializing in **NLP, generative AI, and agentic systems**. Over the past three years, I have focused on building **production-ready AI solutions powered by Large Language Models (LLMs)**. I have strong experience leveraging LLMs for **Retrieval-Augmented Generation (RAG)** systems and **multi-agent pipelines**.
 
----
+I have worked across a range of organizations, from **large banks and fintech companies to early-stage startups**, collaborating in teams of **3–15 people**. My expertise spans the **full machine learning development lifecycle**—from gathering business requirements and data collection to model development, deployment, monitoring, and continuous improvement.
 
-## Experience
-
-### EasyChair — *Machine Learning Engineer*  
-**Sep 2023 – Present** • 2+ years
-- Led a RAG system over a corpus of **10,000+ documents**.  
-- Built a multi-agent assistant to improve peer-review quality: **27%** of reviewers revised feedback after AI suggestions; **+80 words** average review length.  
-- Implemented monitoring for search queries and a data pipeline to improve UX.  
-- Added a linter to the CI/CD pipeline, cutting review time.  
-**Tech:** Python, FastAPI, Kotlin, Ktor, Docker, MySQL, Redis, Apache Kafka
+In my free time, I enjoy building **personal projects related to NLP and scientific applications**. One example is **scholarmesh.org**, a scientific reviewer discovery system. You can also explore my work on my GitHub profile.
 
 ---
 
-### SCD Company — *Machine Learning Engineer*  
-**Mar 2022 – Sep 2023** • 1 yr 7 mo
-- Optimized aligner modeling generation: **4h → 1.5h** processing time.  
-- Reduced browser 3D model loading time by **22%**.  
-- Refactored core model-generation class: **−40%** codebase size, comprehensive tests, far fewer regressions.  
-**Tech:** TypeScript, Three.js, Nginx, Docker, React, Redux
+# Experience
+
+## EasyChair — Senior ML/AI Engineer  
+**Sep 2023 – Present (2+ years)**
+
+- Led the development of a **Retrieval-Augmented Generation (RAG)** system for a database containing **10,000+ documents**.  
+- Built a **multi-agent system** to enhance peer-review quality; **27% of reviewers revised their feedback** after receiving AI suggestions, and **average review length increased by 80 words**.  
+- Implemented **promptfoo evaluations** and **red-teaming CI/CD pipelines**, ensuring secure releases.
 
 ---
 
-### Korona Europe — *ML Engineer Intern*  
-**Jun 2021 – Mar 2022** • 10 mo • Remote
-- Developed a **chatbot constructor** for banking support using client data.  
-- Built **question clustering** and **classification** pipelines from support messages.  
-- Created a FastText baseline and improved it with **fine-tuned BERT**, raising the target metric by **37%**.
+## SCD Company — ML Engineer (High-performance 3D ML)  
+**Mar 2022 – Sep 2023 (1 year 7 months)**
+
+- Developed a system to optimize **aligner modeling generation**, reducing processing time **from 4 hours to 1.5 hours**.  
+- Improved browser performance by reducing **3D model loading time by 22.1%**.  
+- Refactored the core generation module (**–40% LOC**) with tests, resulting in **significantly fewer regressions**.
 
 ---
 
-### Sberbank Technologies — *ML Engineer Contractor*  
-**Jun 2020 – Jun 2021** • 1 yr
-- Designed a **lightweight challenge-response** step to catch account takeovers *after* correct logins.  
-- Quantified security impact: set **hard ceilings** on attacker guess rates and identified conditions where the control adds the most value.  
-- Cut computational complexity by **1,000×** (≈1e9 → ≈1e6 candidate cases), turning research into an approach a risk team can evaluate quickly.  
-- Delivered a **rollout playbook**: which questions to ask, how many options to show, and how to tune fraud reduction vs. customer experience.
+## CFT — ML Engineer (NLP)  
+**Jun 2021 – Mar 2022 (10 months)**
+
+- Developed a **chatbot constructor for banking support** using client data.  
+- Built **question clustering and classification pipelines** from support messages.  
+- Created a **FastText baseline** and improved it with **fine-tuned BERT**, increasing the target metric by **37.2%**.
 
 ---
 
-## Skills
+## Sberbank Technologies — ML Engineer (Contractor)  
+**Jun 2020 – Jun 2021 (1 year)**
 
-**ML / Data:** `Python`, `PyTorch`, `Pandas`, `NumPy`, `scikit-learn`, `Transformers`, `BERT`, `FastText`, `LLMs`, `RAG`, `Multi-agent architectures`, `MLflow`, `Matplotlib`, `Seaborn`  
-**Backend / Infra:** `FastAPI`, `Kotlin`, `Ktor`, `Redis`, `PostgreSQL`, `MySQL`, `SQLAlchemy`, `Apache Kafka`, `Docker`, `Nginx`, *cloud computing*  
-**Process / Tools:** `Git`, `CI/CD`, `Agile`, `Kanban`, `Jira`
-
----
-
-## Education
-**Novosibirsk State University** — *Bachelor, Applied Mathematics & Computer Science* (2018–2022)  
-GPA: **4.98 / 5**
+- Designed a **lightweight challenge–response mechanism** to detect account takeovers after correct logins.  
+- Reduced computational complexity by **1,000× (≈1e9 → ≈1e6 candidate cases)**, enabling rapid evaluation by the risk team.  
+- Implemented an **ETL workflow in PySpark** to calculate prior distributions for the model.
 
 ---
 
-### Notes
-- Happy to share more details or links upon request.
-- Phone number shown intentionally; feel free to email first.
+# Skills
+
+## Machine Learning
+Python, LangChain, LangGraph, LLMs, RAG, Multi-agent architectures, PyTorch, Pandas, scikit-learn, NumPy,  
+MLflow, Matplotlib, Transformers, BERT, FastText, FAISS, PySpark, Apache Spark, Apache Iceberg
+
+## Backend
+FastAPI, PostgreSQL, Redis, Apache Kafka, RabbitMQ, Nginx, Prometheus, Grafana, AWS (S3, EC2)
+
+## Other
+Git, CI/CD, Agile, Kanban, Jira, TypeScript
+
+---
+
+# Education
+
+**Novosibirsk State University**  
+Bachelor’s Degree (2018–2022)  
+Applied Mathematics and Computer Science  
+
+**GPA:** 4.98 / 5 *(Top 1% of cohort)*

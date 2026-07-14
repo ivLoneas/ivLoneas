@@ -1,5 +1,5 @@
 # Ivan Smirnov
-**Machine Learning Engineer (5+ years)** 
+**AI/ML Engineer (5+ years)** 
 London, United Kingdom  
 📞 +44 7518 647782 • 📧 ivan.smirnov.wrk@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
@@ -12,11 +12,13 @@ I released [scholarmesh.org](https://scholarmesh.org/) -- a scientific reviewer 
 
 # About
 
-Senior AI/ML Engineer with **5+ years of experience** specializing in **NLP, generative AI, and agentic systems**. Over the past three years, I have focused on building **production-ready AI solutions powered by Large Language Models (LLMs)**. I have strong experience leveraging LLMs for **Retrieval-Augmented Generation (RAG)** systems and **multi-agent pipelines**.
+Software Development Engineer with 5+ years of experience specialising in AI applications, ML engineering (NLP) and backend development. Over the past three years, I have focused on building production-ready AI solutions powered by large language models, including Retrieval-Augmented Generation systems, while also developing and maintaining backend web applications.
 
-I have worked across a range of organizations, from **large banks and fintech companies to early-stage startups**, collaborating in teams of **3–15 people**. My expertise spans the **full machine learning development lifecycle**—from gathering business requirements and data collection to model development, deployment, monitoring, and continuous improvement.
+I have worked across a range of organisations, from large banks and fintech companies to early-stage startups, collaborating in teams of 3–15 engineers. My experience spans the full software development lifecycle, including requirements gathering, system and architecture design, implementation, deployment, monitoring, and continuous improvement.
 
-In my free time, I enjoy building **personal projects related to NLP and scientific applications**. One example is **scholarmesh.org**, a scientific reviewer discovery system. You can also explore my work on my GitHub profile.
+Outside of work, I enjoy building personal projects and writing tech articles. One recent project is scholarmesh.org, a scientific reviewer discovery system. 
+
+I believe sharing professional knowledge with others is important—it helps make the world a better place. That’s why I write technical blog posts. In one of my recent articles, I explain how scikit-learn’s linear regression works under the hood and why a naive approach to fitting a model fails.
 
 ---
 
@@ -25,9 +27,10 @@ In my free time, I enjoy building **personal projects related to NLP and scienti
 ## EasyChair — Senior ML/AI Engineer  
 **Sep 2023 – Present (2+ years)**
 
-- Led the development of a **Retrieval-Augmented Generation (RAG)** system for a database containing **10,000+ documents**.  
-- Built a **multi-agent system** to enhance peer-review quality; **27% of reviewers revised their feedback** after receiving AI suggestions, and **average review length increased by 80 words**.  
-- Implemented **promptfoo evaluations** and **red-teaming CI/CD pipelines**, ensuring secure releases.
+- Lead the development of a multi-agent system to enhance peer-review quality; as a result, 27% of reviewers revised their feedback after receiving AI suggestions, and average review length increased by 80 words.
+- Improved Automated Term Extraction in scientific paper processing pipeline, getting 14.4% increase in accuracy@k
+- Designed and developed a certificate issuance system capable of handling traffic spikes of up to 10k requests.
+
 
 ---
 
@@ -60,15 +63,10 @@ In my free time, I enjoy building **personal projects related to NLP and scienti
 
 # Skills
 
-## Machine Learning
-Python, LangChain, LangGraph, LLMs, RAG, Multi-agent architectures, PyTorch, Pandas, scikit-learn, NumPy,  
-MLflow, Matplotlib, Transformers, BERT, FastText, FAISS, PySpark, Apache Spark, Apache Iceberg
+**AI|ML**: Python, LangChain, LangGraph,  LLM, RAG, Multi-agent architectures, PyTorch, Pandas, scikit-learn, Numpy, MLFlow, Transformers, BERT, FastText, FAISS DB, MLFlow, PySpark, Apache Spark, Apache Iceberg. 
+**Backend**: FastAPI, PostgreSQL, Redis, Apache Kafka, RabbitMQ, Nginx, Prometheus, Grafana, AWS, S3, EC2.
+**Other**: Git, CI/CD, Agile, Kanban, Jira, TypeScript, Docker 
 
-## Backend
-FastAPI, PostgreSQL, Redis, Apache Kafka, RabbitMQ, Nginx, Prometheus, Grafana, AWS (S3, EC2)
-
-## Other
-Git, CI/CD, Agile, Kanban, Jira, TypeScript
 
 ---
 

@@ -24,7 +24,7 @@ I believe sharing professional knowledge with others is important—it helps mak
 
 # Experience
 
-## EasyChair — Senior ML/AI Engineer  
+## EasyChair — ML/AI Engineer  
 **Sep 2023 – Present (2+ years)**
 
 - Lead the development of a multi-agent system to enhance peer-review quality; as a result, 27% of reviewers revised their feedback after receiving AI suggestions, and average review length increased by 80 words.
